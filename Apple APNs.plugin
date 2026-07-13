@@ -1,5 +1,6 @@
 #!name=苹果APNs推送
 #!desc=此插件为解决IOS针对大陆屏蔽国外软件推送而生。\n\n打开配置→高级配置→路由系统服务，打开除「包含本地网络」之外的其余3项，并将PROXY指定一个有直连兜底的fallback策略组，以防代理炸掉无法接收大陆Apple推送。
+#!author=老高
 #!icon=https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/icon/03CNSoft/apple.png
 [Rule]
 # ===== Apple Push =====
